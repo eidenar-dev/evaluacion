@@ -1,0 +1,147 @@
+/** TWITTER */
+.enlace_twitter a {
+    color: #55ACEE;
+    font-family: verdana;
+    font-size: 1.1em;
+    text-decoration: underline;
+
+}
+
+.tiempo_twitter, .tiempo_facebook  {
+    color: #B6B6B6;
+    font-family: verdana;
+    font-weight: bold;
+
+}
+
+.usuario_twitter{
+    color: #55ACEE;
+    font-weight: bold;
+    font-family: verdana;   
+}
+
+
+/** FACEBOOK  **/
+
+.enlace_facebook a {
+    color: #46629E;
+    font-family: verdana;
+    font-size: 1.1em;
+    text-decoration: underline;
+
+}
+
+.usuario_facebook a{
+    color: #46629E;
+    font-weight: bold;
+    font-family: verdana;   
+}
+
+.bx-viewport{
+    height: 198px !important;
+}
+
+.bx-wrapper{
+    float: left !important;
+}
+
+.home .bx-wrapper {
+    height: 198px !important;
+}
+
+.color-twitter{
+    background-color: #506DB8; 
+}
+
+.color-facebook:hover{
+    background-color: #506DB8;   
+}
+
+.color-twitter:hover{
+    background-color: #659FCB;
+}
+
+.next-post {
+    background-repeat: no-repeat;
+    background-color:  #8F9194;
+    height: 98px;
+    width: 80px;
+    padding-top: 27px;
+    padding-left: 17px;
+}
+
+.prev-post {
+    background-repeat: no-repeat;
+    background-color: #8F9194;
+    height: 98px;
+    width: 80px;
+    padding-top: 29px;
+    padding-left: 22px;
+}
+
+.next-image{
+    background-image: url("images/next.png");
+    height: 46px;
+    width: 46px;
+}
+
+.prev-image{
+    background-image: url("images/prev.png");
+    height: 34px;
+    width: 34px;
+}
+
+#slider-prev-twitter, #slider-prev-facebook{
+    margin-top: 2px;
+}
+
+#facebook .bx-wrapper{
+    border-bottom: 5px solid #506DB8;
+}
+
+#twitter .bx-wrapper{
+    border-bottom: 5px solid #659FCB;
+}
+
+#tab-facebook, #tab-twitter{
+    background-color: #A3A5A8;
+    color: #ffffff;
+}
+
+.active #tab-facebook {
+    background-color: #506DB8;
+    color: #ffffff;
+}
+
+.active #tab-twitter{
+    background-color: #659FCB;
+    color: #ffffff;
+}
+
+#myTab li {
+    width: 257px;
+}
+
+#myTab li a{
+    padding: 7px;
+    padding-left: 50px;
+}
+
+.nav-tabs > li > a{
+    border-radius: 0px !important;
+    margin-right: 0px !important;
+}
+    
+.icon-social-media{
+    width: 32px;
+}
+
+.lbl-social-media{
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+#li-facebook, #li-twitter{
+    border-bottom: 2px solid #506DB8;
+}
+            
